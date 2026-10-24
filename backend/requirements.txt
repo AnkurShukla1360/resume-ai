@@ -15,3 +15,4 @@ langchain-huggingface
 sentence-transformers
 chromadb
 reportlab
+langchain-community
