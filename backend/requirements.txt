@@ -16,3 +16,4 @@ sentence-transformers
 chromadb
 reportlab
 langchain-community
+langchain-groq
